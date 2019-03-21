@@ -49,11 +49,11 @@ driver.find_element_by_xpath('//*[@id="AttendWork"]').send_keys(work)
 
 if len(driver.find_elements_by_xpath('//*[@id="signin"]')) == 1:
     #新增簽到
- #   driver.find_element_by_xpath('//*[@id="signin"]').click()
+    driver.find_element_by_xpath('//*[@id="signin"]').click()
     print("新增簽到")
 elif len(driver.find_elements_by_xpath('//*[@id="signout"]')) == 1:
     #新增簽退
-#    driver.find_element_by_xpath('//*[@id="signout"]').click()
+    driver.find_element_by_xpath('//*[@id="signout"]').click()
     print("新增簽退")
 
 
