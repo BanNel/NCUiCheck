@@ -20,7 +20,7 @@ userPass= ('')
 ###需求:[工作事項]
 work= "登記成績、回覆學生問題"
 
-chromedriver = executable_path=r"C:/Users/user/Desktop/NCU/autoSign/chromedriver.exe"
+chromedriver = executable_path=r"C:/..../chromedriver.exe"
 
 driver = webdriver.Chrome(chromedriver)
 driver.get('https://cis.ncu.edu.tw/HumanSys/')
