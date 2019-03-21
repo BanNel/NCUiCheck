@@ -13,6 +13,7 @@
 1. 在自己電腦上執行
   * 下載NCUiCheck.py
   * 安裝符合版本ChromeDriver(下載點:http://chromedriver.chromium.org/downloads)
+  * 安裝 selenium(pip install selenium)
   * 修改NCUiCheck.py當中的[使用者帳號]、[使用者密碼]、[工作事項]、[chromedriver路徑]
   * 若需要定時執行則可透過Windows工作排程
 2. 交給我處理
