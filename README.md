@@ -12,7 +12,7 @@
 使用方式有以下兩種
 1. 在自己電腦上手動執行
   * 下載NCUiCheck.py
-  * 安裝符合版本chromedriver
+  * 安裝符合版本ChromeDriver(下載點:http://chromedriver.chromium.org/downloads)
   * 修改[使用者帳號]、[使用者密碼]、[工作事項]、[chromedriver路徑]
 
 2. 自動定時執行
